@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/projects/layout type/src/main/res/layout-land/activity_main.xml" value="0.1890625" />
+        <entry key="..\:/projects/layout type/src/main/res/layout-land/activity_second.xml" value="0.1890625" />
+        <entry key="..\:/projects/layout type/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/projects/layout type/src/main/res/layout/activity_second.xml" value="0.1" />
+        <entry key="..\:/projects/layout type/src/main/res/layout/click.xml" value="0.17147922998986828" />
+        <entry key="..\:/projects/layout type/src/main/res/layout/click_cancel.xml" value="0.17831813576494426" />
+        <entry key="..\:/projects/layout type/src/main/res/layout/constraint_layout.xml" value="0.17831813576494426" />
+        <entry key="..\:/projects/layout type/src/main/res/layout/linear_layout.xml" value="0.17831813576494426" />
+        <entry key="..\:/projects/layout type/src/main/res/layout/relative_layout.xml" value="0.17831813576494426" />
+        <entry key="..\:/projects/layout type/src/main/res/layout/sdgsdgdsdsg.xml" value="0.17831813576494426" />
+        <entry key="..\:/projects/layout type/src/main/res/layout/table_layout.xml" value="0.17831813576494426" />
+        <entry key="..\:/projects/myapplication/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/ru.mirea.orlov.practice1/layout type/src/main/res/layout-land/activity_second.xml" value="0.22135416666666666" />
+        <entry key="..\:/ru.mirea.orlov.practice1/layout type/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/ru.mirea.orlov.practice1/layout type/src/main/res/layout/activity_second.xml" value="0.17831813576494426" />
+        <entry key="..\:/ru.mirea.orlov.practice1/layout type/src/main/res/layout/click_cancel.xml" value="0.17831813576494426" />
+        <entry key="..\:/ru.mirea.orlov.practice1/layout type/src/main/res/layout/constraint_layout.xml" value="0.17831813576494426" />
+        <entry key="..\:/ru.mirea.orlov.practice1/layout type/src/main/res/layout/linear_layout.xml" value="0.17831813576494426" />
+        <entry key="..\:/ru.mirea.orlov.practice1/layout type/src/main/res/layout/relative_layout.xml" value="0.17831813576494426" />
+        <entry key="..\:/ru.mirea.orlov.practice1/layout type/src/main/res/layout/table_layout.xml" value="0.17831813576494426" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
